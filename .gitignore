@@ -14,3 +14,18 @@ _book
 *.epub
 *.mobi
 *.pdf
+.sync/*
+
+.me_configs.data
+
+.z_sync_configs.data
+
+sync_changes.log
+
+sync_hook.script
+
+**/.Archive
+
+# 2017-10-27
+.DS_Store
+.md_configs.data
